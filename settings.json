@@ -1,0 +1,18 @@
+{
+  "support_url": "https://t.me/AE313AM",
+  "payments": [
+    {
+      "id": "usdt_trc20",
+      "name": "USDT (TRC20)",
+      "details": "أرسل إلى: TXxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "id": "binance_pay",
+      "name": "Binance Pay",
+      "details": "@YourBinanceHandle"
+    }
+  ],
+  "admins": [
+    1020361419
+  ]
+}
